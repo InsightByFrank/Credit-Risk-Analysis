@@ -8,7 +8,7 @@
 
 ## 🚀 Live Application
 
-### [Launch the Credit Risk Predictor](YOUR_STREAMLIT_APP_URL)
+### [Launch the Credit Risk Predictor](https://credit-risk-analysis-insighbyfrank.streamlit.app/)
 
 The deployed application allows users to enter borrower information and receive:
 
